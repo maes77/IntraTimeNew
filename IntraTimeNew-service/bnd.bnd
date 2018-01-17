@@ -1,0 +1,5 @@
+Bundle-Name: IntraTimeNew-service
+Bundle-SymbolicName: com.intra.time.service
+Bundle-Version: 1.0.0
+Liferay-Require-SchemaVersion: 1.0.0
+Liferay-Service: true

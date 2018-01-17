@@ -1,0 +1,9 @@
+Bundle-Name: IntraTimeNew-api
+Bundle-SymbolicName: com.intra.time.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.intra.time.exception,\
+	com.intra.time.model,\
+	com.intra.time.service,\
+	com.intra.time.service.persistence
+-includeresource: META-INF/service.xml=../IntraTimeNew-service/service.xml
